@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="@color/white" />
+    </item>
+    <item android:bottom="130dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/no_data_80" />
+    </item>
+
+    <!--<item android:bottom="60dp">-->
+    <!--<bitmap-->
+    <!--android:gravity="center_horizontal|bottom"-->
+    <!--android:src="@mipmap/welcome_bottom" />-->
+    <!--</item>-->
+</layer-list>
